@@ -1,3 +1,4 @@
+http://www.cnblogs.com/davenkin/p/gradle-learning-1.html 可参考该博客
 学习gradle非常好的资料
 这是一个关于Gradle的学习系列，其中包含以下文章：
 
